@@ -1,4 +1,4 @@
-# RODE website clone 1 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue)
+# RODE website clone ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue)
 
 ## Overview
 ### What I learnt :question:
