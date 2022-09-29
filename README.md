@@ -3,7 +3,7 @@
 ## Overview
 ### What I learnt :question:
     - Tailwindcss rules.
-    - Using prebuild tailwindcss blocks.
+    - Using of prebuild tailwindcss blocks.
     - To build or clone a site in short time using frameworks(Tailwindcss).
 ### :hourglass_flowing_sand: Time taken to complete!
     - 5 hours
